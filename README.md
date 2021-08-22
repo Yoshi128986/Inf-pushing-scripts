@@ -5,3 +5,4 @@ In the "Start of pushing" script you MUST replace the ****imput time interval he
 Note that era floor should be on
 Also note that the script starts in the town
 Use Joking's BP
+384h run functionality now! After the update it will get you to 10b infs, note that it is named differently
