@@ -6,4 +6,5 @@ In the "Start of pushing" script you MUST replace the ****imput time interval he
 Note that era floor should be on.
 Also note that the script starts in the town.
 Use Joking's BP.
+800x600 is a resolution that will work but you can use any one with an aspect ratio of 4:3.
 
